@@ -3,9 +3,9 @@
 
 ### Hi there 👋 Welcome to my Profile 🌟✨
 
-I'm Aditya Sinha, a dedicated and passionate individual with a fervent love for programming and web development. For me, the world of technology is more than just a career; it's a calling. I thrive on using my technical expertise to tackle real-world challenges and make a positive impact on society. It's not just about writing code; it's about creating solutions that matter.
+I'm Aditya Sinha, a dedicated and passionate individual with a fervent love for programming,machine learning and web development. For me, the world of technology is more than just a career; it's a calling. I thrive on using my technical expertise to tackle real-world challenges and make a positive impact on society. It's not just about writing code; it's about creating solutions that matter.
 
-- 🧑🏻‍🎓 Currently pursuing a BTech in Computer Science and Engineering at `Vellore Institute of Technology, Vellore`, with a CGPA of 8.50, Graduation Year: 2025.
+- 🧑🏻‍🎓 Currently pursuing a BTech in Computer Science and Engineering at `Vellore Institute of Technology, Vellore`, with a CGPA of 8.57, Graduation Year: 2025.
 - 🏢 Software Developer Intern at `Nokia`, Harayana (August-October 2023).
   - Utilized HTML, CSS, JavaScript, and SQLite to ensure a smooth user experience.
   - Developed a repair recommendation website for 5G boards to help test engineers find faulty components, reducing testing time by 20 minutes.
